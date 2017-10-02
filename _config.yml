@@ -79,3 +79,6 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  repo: https://github.com/fs12580/hexo_blog
+  branch: master
+  message: 
